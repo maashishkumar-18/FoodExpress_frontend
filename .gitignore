@@ -1,0 +1,7 @@
+node_modules/
+.env
+build/
+<<<<<<< HEAD
+.vercel
+=======
+>>>>>>> cbd43c37d6ec54505e6f26af74140eef3dc36777
